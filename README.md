@@ -307,7 +307,7 @@ If the ML server is unreachable (cold start / timeout), the backend uses a local
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/anmol1kush/FraudShield.git
+git clone https://github.com/9576932355abc-cell/FraudShield.git
 cd FraudShield
 ```
 
@@ -461,17 +461,7 @@ pytest tests/ -v
 pytest tests/ --cov=app --cov-report=html
 ```
 
----
 
-## 🤝 Team
-
-| Role | Contributor |
-|---|---|
-| **Backend Development & ML Integration** | Anmol Kushwaha |
-| **Frontend Development** | Abhikrit Verma |
-| **ML Model & XGBoost Training** | Ritum Raha |
-
----
 
 ## 📄 License
 
@@ -479,10 +469,4 @@ This project is built for educational and portfolio purposes.
 
 ---
 
-<div align="center">
 
-**Built with ❤️ by the FraudShield AI Team**
-
-
-
-</div>
